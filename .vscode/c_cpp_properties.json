@@ -1,0 +1,98 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src/libs/TimerInterrupt",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src/libs/MappedDict",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/EEPROM/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/InterruptStepper/include",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/InterruptStepper/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/Embedded Template Library/include",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/Embedded Template Library",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/avr-debugger/avr8-stub",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/ESP8266 and ESP32 OLED driver for SSD1306 displays/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/U8g2/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/LiquidTWI2",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Wire/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/LiquidCrystal/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/AccelStepper/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/TMCStepper/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/SPI/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/SoftwareSerial/src",
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/TinyGPSPlus/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/cores/MegaCore",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/variants/100-pin-arduino-mega",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/AVR_examples/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Optiboot_flasher/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/SD/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Servo/src",
+                "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Timer/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src/libs/TimerInterrupt",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src/libs/MappedDict",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/EEPROM/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/InterruptStepper/include",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/InterruptStepper/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/Embedded Template Library/include",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/Embedded Template Library",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/avr-debugger/avr8-stub",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/ESP8266 and ESP32 OLED driver for SSD1306 displays/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/U8g2/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/LiquidTWI2",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Wire/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/LiquidCrystal/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/AccelStepper/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/TMCStepper/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/SPI/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/SoftwareSerial/src",
+                    "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/.pio/libdeps/ramps/TinyGPSPlus/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/cores/MegaCore",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/variants/100-pin-arduino-mega",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/AVR_examples/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Optiboot_flasher/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/SD/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Servo/src",
+                    "C:/Users/david/.platformio/packages/framework-arduino-avr-megacore/libraries/Timer/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60115",
+                "ARDUINO_AVR_ATmega2560",
+                "ETL_NO_STL",
+                "BOARD=BOARD_AVR_RAMPS",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++17",
+            "forcedInclude": [
+                "C:/Users/david/Documents/GitHub/OpenAstroTracker-Firmware/src/macros/gcc/Macros.hpp",
+                ""
+            ],
+            "compilerPath": "C:/Users/david/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
